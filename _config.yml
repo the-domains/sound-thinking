@@ -1,0 +1,27 @@
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#081156'
+    - '#00C1CB'
+    - '#B5BCCB'
+    - '#69759B'
+  brandStrength: 0.17583797127008438
+  lightness: 0.210653489921242
+  saturation: 0.024302318459376693
+  rhythmicContrast: 0.042582913767546415
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Sound Thinking
+layout_spectrum: 0.3168682458344847
+typography_spectrum: 0.17943005310371518
+content: []
+title: Sound Thinking
+description: Sailing my Catalina 320
+github: true
+author:
+  name: Ade Bateman
